@@ -1,0 +1,14 @@
+CHEF KISS FOODİES ile bisque renkli box ın arasının biraz daha kapalı olmasını istiyorum.
+header{
+    padding:70px 15px;
+} ile halloldu.
+
+Resimleri alt alta sirala.
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; ile halloldu.
+
+Resimleri hareketli yap tipki Personal_Portfoliadaki gibi
+
+Yiyeceklerin olduğu yeri daha güzel görünümlü hale getir daha eğlenceli olsun.
